@@ -4,3 +4,8 @@ può sembrare strano
 
 ## sec-doc
 ma Ã¨ una storia vera
+
+#third doc
+laaa leggenda su di noi è gia
+
+please see file3.txt for the third document
